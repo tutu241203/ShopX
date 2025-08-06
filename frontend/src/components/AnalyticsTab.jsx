@@ -119,4 +119,5 @@ const AnalyticsCard = ({ title, value, icon: Icon, color }) => (
 		</div>
 	</motion.div>
 	//Hello
+	//hii
 );
